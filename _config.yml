@@ -16,15 +16,15 @@ encoding: "utf-8"
 favicon: favicon.png
 static-url: https://static.studytime.xin/studytime-Blog
 
-repository: mystudytime/studytime-blog
-github_url: https://github.com/mystudytime
-url: https://blog.studytime.xin
+repository: hiszm/blog2
+github_url: https://github.com/hiszm
+url: https://hiszm.github.io/blog2
 
 sfblog_url: https://segmentfault.com/u/baihe
 zhihu_url: https://www.zhihu.com/people/mystudytime
 base_url: https://blog.studytime.xin
 baseurl: ''
-enforce_ssl: https://blog.studytime.xin
+enforce_ssl: https://hiszm.github.io/blog2
 static-url-version: 20200315
 
 ## Gem
